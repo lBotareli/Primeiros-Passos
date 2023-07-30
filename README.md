@@ -1,6 +1,6 @@
 # Primeiros Passos!!
- Entendendo como funciona o mundo da programação.
+ Entendendo como funciona o **Mundo da Programação**.
 
- Repositório do inicío da jornada.
+ Repositório do inicío da *Jornada*.
 
-Entendendo como funciona o edit pelo site.
+ Entendendo como funciona o edit pelo site.
