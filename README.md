@@ -3,4 +3,4 @@
 
  Repositório do inicío da jornada.
 
-Entendendo como funciona o edit pelo site
+Entendendo como funciona o edit pelo site.
